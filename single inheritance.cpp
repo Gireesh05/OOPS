@@ -1,4 +1,4 @@
-##include<iostream>
+#include<iostream>
 using namespace std;
 class Person 
 {
@@ -40,3 +40,4 @@ int main()
  t.displayTeacher();
  return 0;
 }
+
