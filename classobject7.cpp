@@ -27,5 +27,6 @@ int main()
  p2.setPatient(302, "Meena", "Diabetes");
  p1.showPatient();
  p2.showPatient();
+
  return 0;
 }
